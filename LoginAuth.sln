@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibLoginAuthenticator", "LibLoginAuthenticator\LibLoginAuthenticator.csproj", "{7FA007DD-6823-4C73-969C-03FC7EC8B453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConLoginAuthenticator", "ConLoginAuthenticator\ConLoginAuthenticator.csproj", "{B041DCA6-A67A-45C6-96D9-5299036E45C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinLogAuthenticator", "WindowsFormsApp1\WinLogAuthenticator.csproj", "{2F619936-C417-4E8E-A824-EA81600F1CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA007DD-6823-4C73-969C-03FC7EC8B453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA007DD-6823-4C73-969C-03FC7EC8B453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA007DD-6823-4C73-969C-03FC7EC8B453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA007DD-6823-4C73-969C-03FC7EC8B453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B041DCA6-A67A-45C6-96D9-5299036E45C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B041DCA6-A67A-45C6-96D9-5299036E45C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B041DCA6-A67A-45C6-96D9-5299036E45C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B041DCA6-A67A-45C6-96D9-5299036E45C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F619936-C417-4E8E-A824-EA81600F1CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F619936-C417-4E8E-A824-EA81600F1CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F619936-C417-4E8E-A824-EA81600F1CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F619936-C417-4E8E-A824-EA81600F1CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7428A7EA-B3EE-48F6-9FC6-72CB39E60117}
+	EndGlobalSection
+EndGlobal

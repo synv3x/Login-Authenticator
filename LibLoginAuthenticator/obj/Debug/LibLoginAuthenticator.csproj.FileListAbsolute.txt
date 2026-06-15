@@ -1,0 +1,6 @@
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\LibLoginAuthenticator\bin\Debug\LibLoginAuthenticator.dll
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\LibLoginAuthenticator\bin\Debug\LibLoginAuthenticator.pdb
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.csproj.AssemblyReference.cache
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.csproj.CoreCompileInputs.cache
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.dll
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.pdb

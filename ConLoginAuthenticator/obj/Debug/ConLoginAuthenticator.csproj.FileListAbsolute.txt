@@ -1,0 +1,11 @@
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\bin\Debug\ConLoginAuthenticator.exe.config
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\bin\Debug\ConLoginAuthenticator.exe
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\bin\Debug\ConLoginAuthenticator.pdb
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\bin\Debug\LibLoginAuthenticator.dll
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\bin\Debug\LibLoginAuthenticator.pdb
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\obj\Debug\ConLoginAuthenticator.csproj.AssemblyReference.cache
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\obj\Debug\ConLoginAuthenticator.csproj.CoreCompileInputs.cache
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\obj\Debug\ConLogin.64B0473B.Up2Date
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\obj\Debug\ConLoginAuthenticator.exe
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\obj\Debug\ConLoginAuthenticator.pdb
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\ConLoginAuthenticator\obj\Debug\ConLoginAuthenticator.exe.config

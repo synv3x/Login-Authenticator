@@ -1,0 +1,13 @@
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\bin\Debug\LibLoginAuthenticator.dll
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\bin\Debug\LibLoginAuthenticator.pdb
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\obj\Debug\WinLogAuthenticator.csproj.AssemblyReference.cache
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\obj\Debug\WinLogAuthenticator.csproj.GenerateResource.cache
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\obj\Debug\WinLogAuthenticator.csproj.CoreCompileInputs.cache
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\obj\Debug\WinLogAu.D408CC16.Up2Date
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Samarjeet\Documents\visualstudio\LoginAuth\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
